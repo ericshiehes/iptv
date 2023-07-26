@@ -109,3 +109,59 @@ http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 group-title="浙江",数码时代
 http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 group-title="新聞" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/10/09/20171009012506131666_63.png",[HD]ABC news
+https://epg.pw/stream/4ccd6a2d890a9bd46004747a1634b9493666a3b057270d400f715c6a656a00a0.m3u8
+#EXTINF:-1 group-title="紀實" tvg-logo="https://epg.pw/media/images/channel/2022/06/06/large/20220606140556495122_39.png",[HD]BBC Earth
+https://epg.pw/stream/fb6fa66b7f52874cc585a0dadf840b849d0d984cc61de35bfa2c404a781d28ff.ctv
+#EXTINF:-1 group-title="綜合" tvg-logo="https://epg.pw/media/images/channel/2022/08/17/large/20220817142713635100_54.png",[HD]BBC Lifestyle
+https://epg.pw/stream/243e7d97eeaa58e6dab9b5eef29f60fd2d05b18e4c0a5370c6eedf9e57eec5fd.ctv
+#EXTINF:-1 group-title="新聞" tvg-logo="https://epg.pw/media/img/logo/1_189.jpg",[HD]BBC world news
+https://epg.pw/stream/4b78a89f3739fd13c3afeb4a0581e812a2d3a18771cfe88551a7b4be443ad993.m3u8
+#EXTINF:-1 group-title="新聞" tvg-logo="https://epg.pw/media/images/channel/2019/01/13/large/20190113215800701920_63.jpg",[HD]CNN HD
+https://epg.pw/stream/05c794834c5ab0e8eb1de8533e1f17f3e116aaf1ce03283d2e4f2bb5b5a86cc7.ctv
+#EXTINF:-1 group-title="紀實" tvg-logo="https://epg.pw/media/images/channel/2020/02/11/large/20200211195553446746_55.png",[VGA]Discovery HD
+https://epg.pw/stream/a17d8e824aaac13276c0c03dbe652b7777069510c58ae73e00def239c19fedfe.ctv
+#EXTINF:-1 group-title="動畫" tvg-logo="https://epg.pw/media/images/channel/2021/11/27/large/20211127205316248478_57.png",[HD]DreamWorks
+https://epg.pw/stream/dc10f9b64c676e988a9da597f21ec1adb3c95aa4ab5888daf9fa7d471a857383.ctv
+#EXTINF:-1 group-title="運動" tvg-logo="https://epg.pw/media/images/channel/2020/11/14/large/20201114212523756889_54.png",[HD]ESPN 2
+https://epg.pw/stream/527cd2a682c11655e2d34c004550df65078c01d4bdef9505cb9ced5c3aa6192e.ctv
+#EXTINF:-1 group-title="運動" tvg-logo="https://epg.pw/media/images/channel/2022/06/25/large/20220625152948057557_76.png",[HD]ESPN NEWS
+https://epg.pw/stream/5c2c0175af26a6eb3774723d28e1f48efee8099219302dcf16a67d11aaf59d6f.ctv
+#EXTINF:-1 group-title="運動" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720210021959688_47.png",[HD]Fox Sports 2
+https://epg.pw/stream/0ccd84fd779556e7e8c587ecc0e3e6c54d8003cc45e8501531730c5af4c5d35b.ctv
+#EXTINF:-1 group-title="運動" tvg-logo="https://epg.pw/media/images/channel/2017/11/22/large/20171122201848751840_29.jpg",[HD]FOX SPORTS
+https://epg.pw/stream/ad5f90d7d72efcc2c013421733fbb18146bc584c0aa92fc72c23ba0a3a4f72ec.ctv
+#EXTINF:-1 group-title="電影" tvg-logo="https://epg.pw/media/images/channel/2022/05/24/large/20220524233028154751_25.png",[BD]HBO FAMILY
+https://epg.pw/stream/a621b7ceb10b15a816ad4650f5b298cf80fbb951aeca4102c733b93fc75c7fae.ctv
+#EXTINF:-1 group-title="電影" tvg-logo="https://epg.pw/media/images/channel/2022/05/24/large/20220524233028154751_25.png",[VGA]HBO FAMILY USA
+https://epg.pw/stream/81c5d04d40121df30945f014ba6d0afb880aa5cddcd7d3bb784a991593498096.ctv
+#EXTINF:-1 group-title="電影" tvg-logo="https://epg.pw/media/images/channel/2023/02/12/large/20230212224126570617_60.png",[HD]HBO WEST
+https://epg.pw/stream/103d8ff854512c2653e62848a35e4172dc867cb59354d146e2f7c69892f9eaa0.ctv
+#EXTINF:-1 group-title="綜合" tvg-logo="https://epg.pw/media/images/channel/2022/05/10/large/20220510163558003616_93.jpg",[HD]hk tv
+https://epg.pw/stream/febdbccbae70cd1f798392c468ba73dad9113b12d4aa5135af9a6f9f6fcb9c85.m3u8
+#EXTINF:-1 group-title="電影" tvg-logo="https://epg.pw/media/images/channel/2021/12/10/large/20211210235908754439_80.png",[HD]Netflix Horror
+https://epg.pw/stream/c4af90122d1d4aa3cb011db8930522c0061355ab617cd1d91b6a873f1b2fdd80.ctv
+#EXTINF:-1 group-title="新聞" tvg-logo="https://epg.pw/media/images/channel/2021/01/21/large/20210121205319348415_63.png",[HD]newsmax tv
+https://epg.pw/stream/2be690571399aa93091cc4de594713228eb604f10e8f25d3c877b15f2f2dfaba.m3u8
+#EXTINF:-1 group-title="綜合" tvg-logo="https://epg.pw/media/images/channel/2022/09/25/large/20220925225231999447_80.png",[HD]PARAMOUNT NETWORK
+https://epg.pw/stream/fcdde42b2975edfc4cee7cdd26931426fc82382a1b07159af968aa304d0aeb40.ctv
+#EXTINF:-1 group-title="電影" tvg-logo="https://epg.pw/media/images/channel/2023/06/02/large/20230602013623189663_65.jpg",[BD]TVBS亚洲
+https://epg.pw/stream/91cbf738a81232ad279ff9f0a8a8cad9c566587b73817e94c7e891bef59f8e87.m3u8
+#EXTINF:-1 group-title="新聞" tvg-logo="https://epg.pw/media/images/channel/2022/08/07/large/20220807134835358971_10.jpg",[HD]TVB無線新聞
+https://epg.pw/stream/97ea2cb755c8f2423129bc4ade0515be78a0068ae67ecb6b8b4c49edbfc27667.ctv
+#EXTINF:-1 group-title="電影" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/04/30/20150430061147513091_79.jpg",[BD]HBO COMEDY
+https://epg.pw/stream/caa5c2cacc89fb8f9146bd04399d9b4e9f22562948fe7b202e709c0e7a8b58a9.ctv
+#EXTINF:-1 group-title="其它" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164631208687_15.png",[HD]NASA
+https://epg.pw/stream/250b7a722ad83104de36fb62e1092707a7156c4efa4d4bc752a57f57dbd52996.m3u8
+#EXTINF:-1 group-title="動畫" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/09/15/20180915122746104734_93.png",[SD]PBS kids sd
+https://epg.pw/stream/5a8ec201d36d512da16c07f5092d4cb2aa86d3cfa2721453efeabcd895a36788.m3u8
+#EXTINF:-1 group-title="新聞" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/1fc63137dcddcc7ea26bd031d4b17c90.jpg",[SD]TVBS新闻台
+https://epg.pw/stream/0f40c5b9e7af9348e5d9afb6b9c63c903e1053bf584d9430b2785c746bc3ec2d.m3u8
+#EXTINF:-1 group-title="新聞" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092903588198_34.png",[SD]台视新闻
+https://epg.pw/stream/6ffb325e878b6ae255f12f6f11aef268b32db0d6b8b43c53fa0041975274cba5.m3u8
+#EXTINF:-1 group-title="綜合" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513170616704408_18.jpg",[HD]美国中文电视
+https://epg.pw/stream/f485fbec8812cc085d6c8c8c372b8b731b261f15111bf0e4f138b8e98d97aac9.m3u8
+#EXTINF:-1 group-title="綜合" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513170616704408_18.jpg",[HD]美国中文电视
+https://epg.pw/stream/5332d75d29fdb6d4e23a6f80a6f2e579e1aa9de006dc8ab97750cf466ec57af1.m3u8
+#EXTINF:-1 group-title="綜合" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140246184179_52.png",[HD]凤凰卫视
+https://epg.pw/stream/1019528ae000223f40b96310c8aaf0cd52fa1104db646e08840929903f642f50.ctv
