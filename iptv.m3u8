@@ -141,8 +141,6 @@ http://115.196.123.99:82/rtp/233.50.201.175:5140
 http://115.196.123.99:82/rtp/233.50.201.176:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",杭州5青少
 http://115.196.123.99:82/rtp/233.50.201.177:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",极速汽车
-http://115.196.123.99:82/rtp/233.50.201.208:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宁波TV1
 http://115.196.123.99:82/rtp/233.50.201.168:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宁波TV2
@@ -151,16 +149,12 @@ http://115.196.123.99:82/rtp/233.50.201.178:5140
 http://115.196.123.99:82/rtp/233.50.201.179:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宁波TV4
 http://115.196.123.99:82/rtp/233.50.201.180:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宁波TV5
-http://115.196.123.99:82/rtp/233.50.201.181:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",温州新闻
 http://115.196.123.99:82/rtp/233.50.201.87:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",衢州新闻
 http://115.196.123.99:82/rtp/233.50.201.155:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",绍兴新闻
 http://115.196.123.99:82/rtp/233.50.201.156:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",台州-1
-http://115.196.123.99:82/rtp/233.50.201.157:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",湖州公共
 http://115.196.123.99:82/rtp/233.50.201.158:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",金华新闻
@@ -201,29 +195,7 @@ http://115.196.123.99:82/rtp/233.50.201.109:5140
 http://115.196.123.99:82/rtp/233.50.201.201:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中国蓝直播
 http://115.196.123.99:82/rtp/233.50.201.193:5140
-#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="上海",新视觉HD
-http://115.196.123.99:82/rtp/233.50.201.244:5140
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",欢笑剧场
 http://115.196.123.99:82/rtp/233.50.201.189:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",都市剧场
 http://115.196.123.99:82/rtp/233.50.201.190:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知频道
-http://115.196.123.99:82/rtp/233.50.201.224:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中国蓝直播
-http://115.196.123.99:82/rtp/233.50.201.108:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江之声广播
-http://115.196.123.99:82/rtp/233.50.201.79:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江新闻广播
-http://115.196.123.99:82/rtp/233.50.201.80:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",经济频道广播
-http://115.196.123.99:82/rtp/233.50.201.81:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",音乐调频广播
-http://115.196.123.99:82/rtp/233.50.201.82:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",交通之声广播
-http://115.196.123.99:82/rtp/233.50.201.83:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",旅游之声广播
-http://115.196.123.99:82/rtp/233.50.201.84:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",城市之声广播
-http://115.196.123.99:82/rtp/233.50.201.85:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",民生资讯广播
-http://115.196.123.99:82/rtp/233.50.201.86:5140
